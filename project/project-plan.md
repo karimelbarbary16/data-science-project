@@ -14,14 +14,14 @@ The FIFA World Cup is not only a global sporting event but also a source of nati
 
 ## Data Sources
 
-### Datasorce1: FIFA World Cup
+### Datasource1: World GDP per capita
 
 - Data and Metadata URL: https://www.kaggle.com/datasets/zgrcemta/world-gdpgdp-gdp-per-capita-and-annual-growths/?select=gdp_per_capita.csv
 - Data Type: CSV
 
 GDP data is gathered from [World Bank](https://data.worldbank.org/).
 
-### Datasorce2: FIFA World Cup
+### Datasource2: FIFA World Cup
 
 - Data and Metadata URL: https://www.kaggle.com/datasets/abecklas/fifa-world-cup?select=WorldCups.csv
 - Data Type: CSV
