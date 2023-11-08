@@ -27,3 +27,6 @@ GDP data is gathered from [World Bank](https://data.worldbank.org/).
 - Data Type: CSV
 
 ## Work Packages
+
+- [Data exploration](https://github.com/karimelbarbary16/data-science-project/issues/1)
+- Data cleaning
